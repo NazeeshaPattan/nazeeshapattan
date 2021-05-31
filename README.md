@@ -6,7 +6,7 @@
 ### Grateful to see you here! &nbsp;😊
 
 
-<p align='justify'>Currently pursuing my bachelor's degree in Electronics and Communication Engineering. In parallel being trained to be a full stack developer by GUVI. And idealist towards Data Science. Love exploring through technologies. 
+<p align='justify'>Currently pursuing my bachelor's degree in Electronics and Communication Engineering. In parallel a trained full stack developer. And idealist towards Data Science. Love exploring through technologies. 
 
 <img align="right" alt="Coding" width="400" src="pro.png">
 
